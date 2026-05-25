@@ -1,0 +1,8 @@
+{
+  "name": "vercel-doh-proxy",
+  "version": "1.0.0",
+  "description": "Vercel Edge Function DoH 转发代理",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
